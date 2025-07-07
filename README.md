@@ -1,5 +1,5 @@
 # mailify.rfc
-Submissions repository for `ASOC14` - Drag-n-Drop HTML Email Template Builder
+Submissions repository for `ASOC14` - [https://github.com/acm-avv/mailify.rfc](https://github.com/acm-avv/mailify.rfc)
 
 > [!NOTE]
 All discussions regarding `ASOC14: Drag-n-Drop HTML Email Template Builder` shall take place in https://github.com/orgs/acm-avv/discussions/4.
