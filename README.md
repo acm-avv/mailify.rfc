@@ -2,7 +2,7 @@
 Submissions repository for `ASOC14` - [https://github.com/acm-avv/mailify.rfc](https://github.com/acm-avv/mailify.rfc)
 
 > [!NOTE]
-All discussions regarding `ASOC14: Drag-n-Drop HTML Email Template Builder` shall take place in https://github.com/orgs/acm-avv/discussions/4.
+All discussions regarding `ASOC14: Drag-n-Drop HTML Email Template Builder` shall take place in https://github.com/orgs/acm-avv/discussions/19.
 
 ## Overview
 In-order to be eligible to work on this project as **Request for Code** under the banner of **Amrita Summer of Code, 2025**, you are required to form a team of size 1-4 and have all the members register at [amsoc.vercel.app](https://amsoc.vercel.app)
@@ -16,7 +16,7 @@ In-order to be eligible to work on this project as **Request for Code** under th
 ```
 
 ## How to Apply
-Type out a message in https://github.com/orgs/acm-avv/discussions/4 with the following details:
+Type out a message in https://github.com/orgs/acm-avv/discussions/19 with the following details:
 1. Team Name
 2. Team Members' Names, Roll-Numbers and respective GitHub usernames
 3. Tag the project manager as **@username**
